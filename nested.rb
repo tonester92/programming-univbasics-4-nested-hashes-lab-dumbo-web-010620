@@ -91,9 +91,7 @@ def adding_matz
         }
      }
      
-     yuki = {:yukihiro_matsumoto => {:known_for =>"Ruby", :languages => ["LISP", "C"]}}
      
-     yuki.merge(programmer_hash)
      
     
 end
